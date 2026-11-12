@@ -1,7 +1,7 @@
 # User manual
 
 [[toc]]
-
+juljimar84@gmail.com 
 ## Start Shizuku
 
 Shizuku supports startup in the following three ways.
